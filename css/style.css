@@ -1,0 +1,30 @@
+/*generals*/
+
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+  }
+
+
+  body {
+    font-family: 'Fredoka', sans-serif;
+    font-weight: 400;
+  }
+  
+  /*main*/
+
+  /*header*/
+
+  h1{
+    padding: 50px;
+    color:#e53170;
+    font-weight: 700;
+  }
+  
+  h1 ,p{
+    margin: 0 auto;
+    max-width: 1200px;
+    text-align: center;
+  }
+   /*end-header*/
